@@ -1,9 +1,9 @@
 This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
 
 -------------------------------------------------------------------------------------------------
-Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [https://us.pycon.org/2013/about/code-of-conduct/](https://us.pycon.org/2013/about/code-of-conduct/)
+Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [code of conduct policy](code_of_conduct.md)
 
-Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
+Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found [here](Attendee%20Procedure%20for%20incident%20handling.md)
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
@@ -13,7 +13,7 @@ Try to get as much of the incident in written form by the reporter. If you canno
  - The circumstances surrounding the incident
  - Other people involved in the incident
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for PyCon. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for CppCon. Depending on the severity/details of the incident, please follow these guidelines:
 
  - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police
  - Offer the victim a private place to sit
@@ -28,7 +28,7 @@ There are also some guidelines as to what not to do as an initial response:
  - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility.
  - Do not offer them input into penalties. This is the staff's responsibility.
 
-Once something is reported to a staff member, immediately meet with the conference chair and/or event coordinator. The main objectives of this meeting is to find out the following:
+Once something is reported to a staff member, immediately meet with Jon Kalb (conference chair) and/or Herb Sutter (ISO C++ Foundation advisor). The main objectives of this meeting is to find out the following:
 
  - What happened?
  - Are we doing anything about it?
@@ -58,8 +58,9 @@ Give accused attendees a place to appeal to if there is one, but in the meantime
 
 It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken - while still respecting the privacy of individual attendees.  When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out.
 
-Depending on the incident, the conference chair, or designate, may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements. No personal information about either party will be disclosed as part of this process.
+Depending on the incident, Jon Kalb (conference chair) and Herb Sutter (ISO C++ Foundation advisor) may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements. No personal information about either party will be disclosed as part of this process.
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with.  If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
 
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers. If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+A listing of [CppCon staff is located here](https://cppcon.org/staff/).
+If at all possible, all reports should be made directly to conduct@cppcon.org. 
