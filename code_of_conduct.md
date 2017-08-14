@@ -35,7 +35,7 @@ Contact Information
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "CppCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Jon Kalb.
 
-If the matter is especially urgent, please call/contact any of these individuals:
+If the matter is especially urgent, please contact any of these individuals or email conduct@cppcon.org:
 
 - Jon Kalb (conference chair) at jon@cppcon.org 
 - Herb Sutter (Standard C++ Foundation advisor) at herb.sutter@gmail.com
