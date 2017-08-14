@@ -38,7 +38,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 If the matter is especially urgent, please call/contact any of these individuals:
 
 - Jon Kalb (conference chair) at jon@cppcon.org 
-- Herb Sutter (ISO C++ Foundation advisor) at herb.sutter@gmail.com
+- Herb Sutter (Standard C++ Foundation advisor) at herb.sutter@gmail.com
 - Bryce Adelstein Lelbach (program chair) at bryce@cppcon.org 
 - Jackie Kay at jackie@cppcon.org
 
