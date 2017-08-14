@@ -1,4 +1,4 @@
-CppCon US is a community conference intended for networking and collaboration in the developer community.
+CppCon is a community conference intended for networking and collaboration in the developer community.
 
 We value the participation of each member of the C++ community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by CppCon or not.
 
