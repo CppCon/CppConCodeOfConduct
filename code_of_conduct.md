@@ -37,10 +37,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please contact any of these individuals or email conduct@cppcon.org:
 
-- Jon Kalb (conference chair) at jon@cppcon.org 
-- Herb Sutter (Standard C++ Foundation advisor) at herb.sutter@gmail.com
-- Bryce Adelstein Lelbach (program chair) at bryce@cppcon.org 
-- Jackie Kay at jackie@cppcon.org
+- Kate Gregory at kate@gregcons.com
+- Chandler Carruth at chandlerc@google.com
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
