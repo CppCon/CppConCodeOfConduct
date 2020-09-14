@@ -37,8 +37,9 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please contact any of these individuals or email conduct@cppcon.org:
 
-- Kate Gregory at kate@gregcons.com
-- Chandler Carruth at chandlerc@gmail.com
+- Céline Dedaj (she/her)
+- Sy Brand (they/them)
+- J. Guy Davidson (he/him)
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
