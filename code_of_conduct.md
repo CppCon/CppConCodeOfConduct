@@ -39,6 +39,7 @@ If the matter is especially urgent, please contact any of these individuals or e
 
 - Céline Dedaj (she/her)
 - Sy Brand (they/them)
+- Karen Krueger (she/her)
 - J. Guy Davidson (he/him)
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
