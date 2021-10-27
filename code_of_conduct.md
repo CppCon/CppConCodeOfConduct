@@ -37,6 +37,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please contact any of these individuals or email conduct@cppcon.org:
 
+- Inbal Levi (she/her)
 - Céline Dedaj (she/her)
 - Sy Brand (they/them)
 - Karen Krueger (she/her)
