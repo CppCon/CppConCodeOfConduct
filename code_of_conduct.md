@@ -37,11 +37,10 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please contact any of these individuals or email conduct@cppcon.org:
 
+- Guy Davidson (he/him)
 - Inbal Levi (she/her)
-- Céline Dedaj (she/her)
-- Sy Brand (they/them)
 - Karen Krueger (she/her)
-- J. Guy Davidson (he/him)
+- Sy Brand (they/them)
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
