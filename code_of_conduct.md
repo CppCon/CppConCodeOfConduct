@@ -2,7 +2,7 @@ CppCon is a community conference intended for networking and collaboration in th
 
 We value the participation of each member of the C++ community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by CppCon or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any CppCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any CppCon event are required to conform to the following Code of Conduct (CoC). Organizers will enforce this code throughout the event.
 
 The Short Version
 -----------------
@@ -19,6 +19,8 @@ Thank you for helping make this a welcoming, friendly event for all.
 
 The Longer Version
 ------------------
+
+CppCon strives to be a respectful, kind, diverse, and inclusive environment. Participants are expected to not be offensive or disrespectful toward others. They are also encouraged to not be too quick to take offense when none is intended but assume good faith when interacting with persons of different cultures, life experiences, and backgrounds who may have diverse ways of expression. The CoC exists to ensure we have a welcoming atmosphere, not to chill communication by trying to control how people express themselves as long as they are respectful.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
