@@ -35,4 +35,4 @@ that they be your first resource when reporting a CppCon-related incident, so th
 the Code of Conduct and take quick action toward a resolution.
 
 A listing of [CppCon staff is located here](https://cppcon.org/staff/).
-If at all possible, all reports should be made directly to conduct@cppcon.org. 
+If at all possible, all reports should be made directly to the code of conduct team at conduct@cppcon.org. 
