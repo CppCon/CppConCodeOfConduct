@@ -37,12 +37,17 @@ Contact Information
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "CppCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Jon Kalb.
 
-If the matter is especially urgent, please contact any of these individuals or email conduct@cppcon.org:
+If the matter is especially urgent, please contact any of these individuals or email the code of conduct team at conduct@cppcon.org:
 
 - Guy Davidson (he/him)
 - Inbal Levi (she/her)
-- Karen Krueger (she/her)
 - Sy Brand (they/them)
+
+The code of conduct team is empowered to, amongst other things:
+
+- eject any participant from the conference (including speakers and organisers)
+- cancel a presentation in progress or scheduled
+- close down any online presentation chat forum
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
