@@ -5,6 +5,8 @@ Be sure to have a good understanding of our Code of Conduct policy, which can be
 
 Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found [here](Attendee%20Procedure%20for%20incident%20handling.md)
 
+Anyone on the Code of Conduct handling team who could have or appear to have a conflict of interest in a particular incident report (including if they are one of the involved parties or a close friend) will not participate in handling the incident.
+
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
  - Identifying information (name/badge number) of the participant doing the harassing
