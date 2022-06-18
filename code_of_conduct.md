@@ -32,6 +32,8 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 
 If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
+No weapons are allowed at CppCon. Weapons include but are not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others.
+
 Contact Information
 -------------------
 
