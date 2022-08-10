@@ -44,6 +44,7 @@ If the matter is especially urgent, please contact any of these individuals or e
 - Guy Davidson (he/him)
 - Inbal Levi (she/her)
 - Sy Brand (they/them)
+- Gabriel Dos Reis (he/him)
 
 The code of conduct team is empowered to, amongst other things:
 
