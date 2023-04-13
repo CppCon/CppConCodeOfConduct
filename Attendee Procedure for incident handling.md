@@ -26,13 +26,13 @@ The staff is well informed on how to deal with the incident and how to further p
 
 3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request.
 If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by
-dialing 911. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
+dialing {{emergency-number}}. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
 
 **Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they
 will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for
-the offenders, and the community at large, to grow, learn, and become better. CppCon staff requests
-that they be your first resource when reporting a CppCon-related incident, so that they may enforce
+the offenders, and the community at large, to grow, learn, and become better. {{conf-name}} staff requests
+that they be your first resource when reporting a {{conf-name}}-related incident, so that they may enforce
 the Code of Conduct and take quick action toward a resolution.
 
-A listing of [CppCon staff is located here](https://cppcon.org/staff/).
-If at all possible, all reports should be made directly to the code of conduct team at conduct@cppcon.org. 
+A listing of [{{conf-name}} staff is located here](https://{{conf-hostname}}/staff/).
+If at all possible, all reports should be made directly to the code of conduct team at conduct@{{conf-hostname}}.
