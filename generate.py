@@ -12,20 +12,32 @@ base = {
 - Aurélien Rainone (he/him)
 - Niccolò Pieretti (he/him)
 """,
+    "conf-year": "2023",
+    "conf-location": "Florence, Italy",
 }
 
 conf_data = {
     "golab": {
         "conf-name": "GoLab",
         "conf-hostname": "golab.io",
-        "conf-lang": "Go"
+        "conf-lang": "Go",
+        "conf-fist-year": "2015",
     },
     "rustlab": {
         "conf-name": "RustLab",
         "conf-hostname": "rustlab.it",
         "conf-lang": "Rust",
+        "conf-fist-year": "2019",
     },
 }
+
+for conf in conf_data:
+    conf_data[conf]["conf-slug"] = conf+base["conf-year"]
+
+for this, other in [("golab", "rustlab"), ("rustlab", "golab")]:
+    for key in list(conf_data[this]):
+        if key.startswith("conf-"):
+             conf_data[this]["other-"+key] = conf_data[other][key]
 
 
 def generate(conf):
