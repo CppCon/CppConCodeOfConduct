@@ -20,7 +20,7 @@ Thank you for helping make this a welcoming, friendly event for all.
 The Longer Version
 ------------------
 
-CppCon strives to be a respectful, kind, diverse, and inclusive environment. Participants are expected to not be offensive or disrespectful toward others. They are also encouraged to not be too quick to take offense when none is intended but assume good faith when interacting with persons of different cultures, life experiences, and backgrounds who may have diverse ways of expression. The CoC exists to ensure we have a welcoming atmosphere, not to chill communication by trying to control how people express themselves as long as they are respectful.
+CppCon strives to be a respectful, kind, diverse, and inclusive environment. Participants are expected to not be offensive or disrespectful toward others. They are also encouraged to not be too quick to take offense when none is intended but assume good faith when interacting with persons of different cultures, life experiences, and backgrounds who may have diverse ways of expression. The CoC and [Ombudsperson](https://cppcon.org/ombudsperson/) exist to ensure we have a welcoming atmosphere, not to chill communication by trying to control how people express themselves as long as they are respectful.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -37,14 +37,7 @@ No weapons are allowed at CppCon. Weapons include but are not limited to explosi
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "CppCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Jon Kalb.
-
-If the matter is especially urgent, please contact any of these individuals or email the code of conduct team at conduct@cppcon.org:
-
-- Guy Davidson (he/him)
-- Inbal Levi (she/her)
-- Sy Brand (they/them)
-- Gabriel Dos Reis (he/him)
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the [Ombudsperson and CoC team chair](https://cppcon.org/ombudsperson/) or a member of conference staff, or email the Ombudsperson and CoC chair at [conduct@cppcon.org](mailto:conduct@cppcon.org). Conference staff will be wearing "CppCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair.
 
 The code of conduct team is empowered to, amongst other things:
 

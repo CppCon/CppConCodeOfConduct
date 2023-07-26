@@ -1,12 +1,12 @@
 This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
 
 1\. Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word “STAFF”
-on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.
+on it (or otherwise clearly marked as staff). The staff will also be prepared to take you to the [Ombudsperson](https://cppcon.org/ombudsperson/)who can handle the incident.
 All of our staff are informed of the [code of conduct policy](code_of_conduct.md) and guide
 for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference
 when this will be reiterated.*
 
-2\. Report the harassment incident (preferably in writing) to a conference staff member. All reports
+2\. Report the harassment incident to the [Ombudsperson](https://cppcon.org/ombudsperson/), if possible in writing to [conduct@cppcon.org](mailto:conduct@cppcon.org). All reports
 are confidential. Please do not disclose public information about the incident until the staff have
 had sufficient time in which to address the situation. This is as much for your safety and protection
 as it is the other attendees.
@@ -35,4 +35,4 @@ that they be your first resource when reporting a CppCon-related incident, so th
 the Code of Conduct and take quick action toward a resolution.
 
 A listing of [CppCon staff is located here](https://cppcon.org/staff/).
-If at all possible, all reports should be made directly to the code of conduct team at conduct@cppcon.org. 
+If at all possible, all reports should be made directly to the [Ombudsperson and CoC team chair](https://cppcon.org/ombudsperson/) at [conduct@cppcon.org](mailto:conduct@cppcon.org).
