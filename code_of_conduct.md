@@ -26,6 +26,8 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
+All interactions among attendees and presenters within the conference space, including digital communications, are required to comply with the Code of Conduct.
+
 Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for CppCon.
