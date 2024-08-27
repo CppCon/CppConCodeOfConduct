@@ -30,6 +30,8 @@ All interactions among attendees and presenters within the conference space, inc
 
 Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
+Speakers should not include any political content in their talks and presentations to ensure an inclusive, comfortable, professional, and focused environment that fosters learning, innovation, and collaboration.
+
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for CppCon.
 
 If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
